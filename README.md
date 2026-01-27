@@ -9,14 +9,21 @@ These rules are designed to optimize routing for specific services. Currently, i
 ## 🛠 Usage
 
 ### Option 1: Remote Configuration (Recommended)
-You can add this configuration file directly to Shadowrocket using the raw GitHub URL (once this repository is pushed to GitHub).
+You can add this configuration file directly to Shadowrocket using the raw GitHub URL.
 
 1. Open **Shadowrocket**.
 2. Navigate to the **Config** tab.
 3. Tap the `+` button or "Add Configuration".
-4. Enter the raw URL of `my_rules.conf`.
-   * *Example:* `https://raw.githubusercontent.com/<your-username>/My-Shadowrocket-Rules/main/my_rules.conf`
+4. Enter the raw URL of `my_rules.conf`:
+   `https://raw.githubusercontent.com/LeonSparta/My-Shadowrocket-Rules/main/my_rules.conf`
 5. Save and select the configuration file to activate it.
+
+## 🔄 Updates
+
+To stay up-to-date with the latest rules:
+1. Go to the **Config** tab in Shadowrocket.
+2. Swipe left on the `my_rules` configuration.
+3. Tap **Update** to fetch the latest changes from this repository.
 
 ### Option 2: Manual Import
 1. Copy the contents of [`my_rules.conf`](./my_rules.conf).
