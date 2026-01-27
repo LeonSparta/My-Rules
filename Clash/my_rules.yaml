@@ -1,0 +1,6 @@
+rules:
+  - DOMAIN-SUFFIX,play.itunes.apple.com,Proxies
+  - DOMAIN-SUFFIX,bookkeeper.itunes.apple.com,Proxies
+  - DOMAIN-SUFFIX,podcasts.apple.com,Proxies
+  - DOMAIN-SUFFIX,mzstatic.com,Proxies
+  - DOMAIN-SUFFIX,outlook.live.com,Proxies
