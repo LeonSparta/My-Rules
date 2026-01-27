@@ -15,7 +15,7 @@ You can add this configuration file directly to Shadowrocket using the raw GitHu
 2. Navigate to the **Config** tab.
 3. Tap the `+` button or "Add Configuration".
 4. Enter the raw URL of `my_rules.conf`:
-   `https://raw.githubusercontent.com/LeonSparta/My-Shadowrocket-Rules/main/my_rules.conf`
+   `https://raw.githubusercontent.com/LeonSparta/My-Rules/main/my_rules.conf`
 5. Save and select the configuration file to activate it.
 
 ## 🔄 Updates
